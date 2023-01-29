@@ -2,4 +2,4 @@
 
 # Prima mea linie de cod.
 
-# Am pus si punct
+# Am pus si punct.
